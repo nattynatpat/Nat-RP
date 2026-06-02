@@ -1,0 +1,17 @@
+digraph FamilyTree {
+    node [shape=box];
+    rankdir=TB;
+    pad="0.5";
+    node [shape=box, style="filled,rounded", fillcolor=lightblue, fontname="Helvetica", shape=rect, rx=5];
+    edge [fontname="Helvetica", fontsize=20];
+    "natounet21" -> "thatguesty" [label=""];
+    "natounet21" -> "kahbe.so_guy08" [label=""];
+    "natounet21" -> "fathead22" [label=""];
+    "natounet21" -> "sneakyxyz" [label=""];
+    "natounet21" -> "userharebear2_second" [label=""];
+    "da_gren" -> "thatguesty" [color=red, style=dashed, label="❤️", dir=none, penwidth=3];
+    "its_collintv_in_the_house" -> "da_gren" [label=""];
+    "thecolor_bluu" -> "thecolor_pinn" [color=red, style=dashed, label="❤️", dir=none, penwidth=3];
+    "thecolor_bluu" -> "ddededodediamanto" [label=""];
+    "Nat RP" -> "lordcat__" [label=""];
+}

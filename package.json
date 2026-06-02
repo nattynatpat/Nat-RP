@@ -1,0 +1,17 @@
+{
+  "name": "weirdrpbot",
+  "version": "1.0.0",
+  "description": "Weird bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nat",
+  "license": "ISC",
+  "dependencies": {
+    "beautify": "^0.0.8",
+    "discord.js": "^14.26.4",
+    "dotenv": "^17.4.2",
+    "pino": "^10.3.1"
+  }
+}
